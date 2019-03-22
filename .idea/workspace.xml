@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35aa1f0a-b7c8-4e95-a737-a3d05dde4701" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DB-Actions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DBPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DBActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Delete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Insert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Select.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Update.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/DBActions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Delete.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Insert.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Select.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Update.class" afterDir="false" />
-    </list>
+    <list default="true" id="35aa1f0a-b7c8-4e95-a737-a3d05dde4701" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
